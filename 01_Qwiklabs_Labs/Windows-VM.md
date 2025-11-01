@@ -11,10 +11,12 @@
 
 ## Tools used :
 
-- File system
-- Task Manager
-- Service Manager
-- VM
+- Qwiklabs virtual machine environment (pre-configured sandbox)
+- Windows Operating System (GUI environment)
+- Control Panel (System configuarion)
+- Task Manager (process and resource monitoring)
+- Server Manager (system roles and storage overview)
+- Windows Administrative Tools menu (system utilities access)
   
 ---
 
@@ -45,9 +47,10 @@ ___
 
 ## What i learned 
 
-- I learned VM is alot slower than if it was indepedent, which enhanced my understanding of how OS is loaded
-- Control panel allows you to configure internet, date and time, change users, hardware overview, system and security, etc
-- Task Manager shows apps being used and displays how much of the CPU is being used by each application
-- Server manager -- shows disk volume and also servers
-- Clicking Windows administrative will direct to a shortcut too all the applications windows offers
-
+- I learned that a virtual machine runs slower than a physical (independent) machine, which helped me understand how an operating system runs when it does not have direct access to hardware
+- I explored the Control Panel, which allows you to configure system settings such as network connections, date and time, user accounts, and device settings
+- I used Task Manager to view running application and see how much CPUand memroy each process is using
+- I also learned about Server Manager, which displays information about storage volumes nad system roles
+- I also learned about Server Manager, which displays information about storage volumes and system roles
+- Finally i noticed that the "Windows Administrative Tools" section provides shortcuts to advanced system managment applications
+  
