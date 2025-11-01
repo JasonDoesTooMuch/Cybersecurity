@@ -34,7 +34,8 @@
 - I learned how to move into a directory using: `cd [foldername]
 - Typing `cd` by itself returns you to your home directory
 - `mkdir` stands for *make directory* and `cd` stands for *change directory*
-- This helped me understand basic navigation and file organization in a Linux environment 
+- This helped me understand basic navigation and file organization in a Linux environment
+- I learned that `touch` : lets you create a file --> `touch [filename]` 
 
 
 
