@@ -17,7 +17,7 @@ Perform basic software maintenance on Windows:
 
 
 ___
-##Steps I toke 
+## Steps I toke 
 
 ### Checking Installed Applications 
 1. **Desktop:** Look for application icons to confirm installation
