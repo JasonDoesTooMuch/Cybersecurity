@@ -11,9 +11,16 @@
 ## Tools used ##
 
 
-___
-##Steps I toke ##
 
+___
+##Steps I toke 
+
+### Verifying application installation 
+1. In Shell type `dpkg -s **program_name**` -> shows if installed or not
+2. 
+
+### Installing Firefox application 
+1. 
 
 ---
 ## Screenshots ##
@@ -24,7 +31,12 @@ ___
 
 
 ---
-##Steps I toke ##
+## Commands used
+- `dpkg -s **program_name**` -> checks if application is installed 
+- `sudo apt-get update` -> refreshes available software list so you get the newest version 
+- `sudo apt-get install **package_name**` -> delete applications contents entirely 
+- `sudo apt-get install -f` -> fixes broken or incomplete installations by installing needed dependencies 
+
 
 
 ---
