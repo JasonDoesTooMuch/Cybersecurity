@@ -3,6 +3,7 @@
 --- 
 
 **Summary**
+
 Assisted a user with setting up a new android tablet to access Gmail, which resulted in an email synchronization issue on the user's iPhone. The iPhone was no longer able to send or receive emails through the native mail application, while email delivery continued on the tablet. The issue was diagnosed, resolved, and fully documented 
 
 ---
