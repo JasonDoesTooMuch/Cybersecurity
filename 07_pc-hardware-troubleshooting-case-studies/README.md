@@ -1,0 +1,1 @@
+This folder documents simulated PC hardwre and software troubleshooting scenarios using structured, real-world IT incident documentation standards
